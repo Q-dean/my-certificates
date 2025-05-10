@@ -10,7 +10,7 @@
 - [IT Планета Pro 2024](pangolin.pdf)
 
 ## 2023 
-- [HackerRank SQL Advanced](sql_advanced certificate.pdf)
+- [HackerRank SQL Advanced](sql_advanced_certificate.pdf)
 - [Цифровая Академия Greenplum Продвинутый](arenadata-adv.pdf) 
 - [Цифровая Академия PostgreSQL для разработчиков](pg-adv.pdf)
 
@@ -20,8 +20,8 @@
 
 ## 2021
 - [SQL c нуля до сертификата Oracle](udemy-oracle-sql.pdf)
-- [HackerRank SQL Basic](sql_basic certificate.pdf) 
-- [HackerRank SQL Intermediate](sql_intermediate certificate.pdf)
+- [HackerRank SQL Basic](sql_basic_certificate.pdf) 
+- [HackerRank SQL Intermediate](sql_intermediate_certificate.pdf)
 
 ## 2020
 - [Основы SQL](stepik-certificate-basic-sql.pdf) 
