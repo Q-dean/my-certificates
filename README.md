@@ -3,6 +3,7 @@
 ## 2025
 - [Clickhouse для анализа данных](stepik-certificate-ch.pdf)  
 - [IT Планета 2025](it-planet-2025.pdf)
+- ["Поколение Python": курс для начинающих](python_basic.pdf)
 
 ## 2024 
 - [LearnSQL Competency Check](learn-sql-certificate.pdf)
