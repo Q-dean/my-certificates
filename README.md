@@ -6,9 +6,10 @@
 - ["Поколение Python": курс для начинающих](python_basic.pdf)
 
 ## 2024 
-- [LearnSQL Competency Check](learn-sql-certificate.pdf)
+- [Формула Т1, номинация "Сила улучшений"](Formula_T1.pdf)
 - [IT Планета 2024](it-planet-2024.pdf)
 - [IT Планета Pro 2024](pangolin.pdf)
+- [LearnSQL Competency Check](learn-sql-certificate.pdf)
 
 ## 2023 
 - [HackerRank SQL Advanced](sql_advanced_certificate.pdf)
