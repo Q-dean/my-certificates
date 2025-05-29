@@ -4,6 +4,7 @@
 - [Clickhouse для анализа данных](stepik-certificate-ch.pdf)  
 - [IT Планета 2025](it-planet-2025.pdf)
 - ["Поколение Python": курс для начинающих](python_basic.pdf)
+- [Международный форум "Горизонты событий"](Forum.pdf)
 
 ## 2024 
 - [Формула Т1, номинация "Сила улучшений"](Formula_T1.pdf)
