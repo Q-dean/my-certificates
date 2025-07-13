@@ -3,6 +3,7 @@
 ## 2025
 - [Clickhouse для анализа данных](stepik-certificate-ch.pdf)
 - [Цифровая Академия PostgreSQL для администраторов](pg-adm-pro.pdf)
+- [Apache Airflow](Airflow.pdf)
 - [IT Планета 2025](it-planet-2025.pdf)
 - ["Поколение Python": курс для начинающих](python_basic.pdf)
 - [Международный форум "Горизонты событий"](Forum.pdf)
